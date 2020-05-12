@@ -9,5 +9,5 @@ First install pipenv. Then:
 
 '''
 pipenv install
-pipenv install  "pyhton find_meteors.py"
+pipenv install  "pyhton meteors/find_meteors.py"
 '''
